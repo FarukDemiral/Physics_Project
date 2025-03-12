@@ -1,0 +1,4 @@
+.*
+# Ignore everything except Physics_project folder
+!Physics_project/
+!Physics_project/*
